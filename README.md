@@ -16,7 +16,9 @@
 
 <details>
 
-![image1](https://github.com/SirSeoPro/08-03-hw/blob/main/screenshoots/Screenshot_20250110_160426.png)
+![image1](https://github.com/SirSeoPro/09-02-zabbix/blob/main/img/1-1.png)
+![image2](https://github.com/SirSeoPro/09-02-zabbix/blob/main/img/1-2.png)
+![image3](https://github.com/SirSeoPro/09-02-zabbix/blob/main/img/1-3.png)
 
 </details>
 
@@ -41,8 +43,20 @@
 
 <details>
 
-![image1](https://github.com/SirSeoPro/08-03-hw/blob/main/screenshoots/Screenshot_20250110_160426.png)
+![image4](https://github.com/SirSeoPro/09-02-zabbix/blob/main/img/2-1.png)
+![image5](https://github.com/SirSeoPro/09-02-zabbix/blob/main/img/2-2.png)
+![image6](https://github.com/SirSeoPro/09-02-zabbix/blob/main/img/2-3.png)
+![image7](https://github.com/SirSeoPro/09-02-zabbix/blob/main/img/2-4.png)
 
+#### Bash commands:
+
+```
+git clone git@github.com:SirSeoPro/09-02-zabbix.git
+git add img/
+git commit -m "add_img"
+git push
+
+```
 </details>
 
 ---
